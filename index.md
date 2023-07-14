@@ -14,7 +14,7 @@ Main menu options:
   
 Reading lists: 
 
-* [Agile architecing](./reading-lists/agile-architecting.html)
+* [Agile architecing](./reading-lists/agile-architecture.html)
 * [API design](./reading-lists/api-design.html)
 * to be continued 
 
