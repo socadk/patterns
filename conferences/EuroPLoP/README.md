@@ -3,7 +3,9 @@
 
 [EuroPLoP](https://www.europlop.net/), previous website (until 5/2023) in [Internet Archive/Wayback Machine](https://web.archive.org/web/20230627213920/https://www.europlop.net/) 
 
-![grafik](https://github.com/socadk/patterns/assets/5002426/2f424d57-3751-4f38-831d-62c764aa9b1c)
+### The Conference
+
+![eplogo](https://github.com/socadk/patterns/assets/5002426/2f424d57-3751-4f38-831d-62c764aa9b1c)
 
 The conference website recently changed to a new layout and site organization:
 
