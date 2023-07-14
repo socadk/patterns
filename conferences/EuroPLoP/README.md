@@ -1,8 +1,8 @@
-# European Conference on Pattern Languages of Programming (EuroPLoP)
+# European Conference on Pattern Languages of Programs (EuroPLoP)
 
 The conference website recently changes to a new layout and site organization:
 
-* [Past conferences](https://www.europlop.net/past-conferences/)
+* [Past conferences](https://www.europlop.net/past-conferences/) (with links to proceedings in ACM Digital Library)
 * [Call for Papers (2023)](https://www.europlop.net/call-for-papers/)
 * [Starter Kit (.zip)](http://hillside.net/europlop/europlop2012/pattern_introduction_pack2012.zip)
 * to be continued
