@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+navigation:
+  - name: Overview
+    link: ./index.html
+  - name: PLoP Conference
+    link: ./conferences/PLoP/
