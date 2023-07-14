@@ -7,7 +7,7 @@ The public GitHub repository for this website is <https://github.com/socadk/patt
 ## This repository
 
 * [About patterns](./about)
-* [Writing patterns](./writing)
+* [Writing patterns](./writing/authoring.html)
 * [Pattern repositories](./repositories)
 
 ## Pattern Conferences 
