@@ -1,5 +1,4 @@
 
-
 <!-- ### European PLoP -->
 
 [EuroPLoP](https://www.europlop.net/), previous website (until 5/2023) in [Internet Archive/Wayback Machine](https://web.archive.org/web/20230627213920/https://www.europlop.net/) 
