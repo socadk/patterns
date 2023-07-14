@@ -2,7 +2,7 @@
 title: EuroPLoP
 ---
 
-## European PLoP
+### European PLoP
 
 ![grafik](https://github.com/socadk/patterns/assets/5002426/2f424d57-3751-4f38-831d-62c764aa9b1c)
 
@@ -15,6 +15,6 @@ The conference website recently changes to a new layout and site organization:
 
 The old website is available via the [Wayback Machine](https://web.archive.org/web/20230000000000*/https://www.europlop.net/) maintained by the Internet Archive.
 
-## Hillside Europe
+### Hillside Europe
 
 * <https://www.europlop.net/hillside-europe/> 
