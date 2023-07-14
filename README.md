@@ -1,4 +1,6 @@
-
+---
+title: patterns-meta
+---
 
 ## Pattern Conferences 
 
