@@ -5,3 +5,5 @@ The following pattern languages deal with API design:
 * to be continued
 
 See ["Related Pattern Languages "](https://api-patterns.org/relatedPatternLanguages) on api-patterns-org for more information.
+
+Back to [reading list index](../index.html).

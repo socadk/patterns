@@ -13,7 +13,7 @@ Main menu options:
 * [Pattern Conferences](./conferences)
 * [Pattern Repositories](./repositories)
   
-Reading lists: 
+Reading lists ([topic index/overiew](./reading-lists/)): 
 
 * [Agile architecting](./reading-lists/agile-architecture.html)
 * [API design](./reading-lists/api-design.html)

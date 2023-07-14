@@ -27,3 +27,5 @@ Watch out for papers by Joe Yoder et al, for instance:
 |Pattern|Problem|Solution|Full Pattern|
 |-|-|-|-|
 |tbc||||
+
+Back to [reading list index](../index.html).
