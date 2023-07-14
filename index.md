@@ -14,8 +14,9 @@ Main menu options:
   
 Reading lists: 
 
-  * [API design](./reading-lists/api-design.html)
-  * to be continued 
+* [Agile architecing](./reading-lists/agile-architecting.html)
+* [API design](./reading-lists/api-design.html)
+* to be continued 
 
 ## Pattern Conferences 
 
