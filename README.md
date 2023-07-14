@@ -6,7 +6,7 @@ title: Home
 
 * AsiaPLoP
 * ChiliPLoP
-* [EuroPLoP](/conferences/EuroPLoP)
+* [EuroPLoP](/conferences/EuroPLoP/)
 * SugarLoafPLoP
 * ScrumPLoP
 * US [PLoP](https://www.inhillside.net/plop/2023/)

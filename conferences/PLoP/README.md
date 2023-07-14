@@ -3,7 +3,7 @@
 
 *Next edition:* [PLoP 2023](https://hillside.net/plop/2023/)
 
-![Alt text](plop2012.png)
+![PLoP 2023 Home Page](plop2023.png)
  
 [Past conferences](https://hillside.net/index.php/past-plop-conferences) (with PDFs of published papers):
 

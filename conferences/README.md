@@ -4,7 +4,7 @@ title: Pattern Conferences
 
 * AsiaPLoP
 * ChiliPLoP
-* [EuroPLoP](./EuroPLoP)
+* [EuroPLoP](./EuroPLoP/index.html)
 * SugarLoafPLoP
 * ScrumPLoP
 * US [PLoP](./PLoP)
