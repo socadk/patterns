@@ -4,8 +4,8 @@ title: Pattern Conferences
 
 * AsiaPLoP
 * ChiliPLoP
-* [EuroPLoP](/EuroPLoP)
+* [EuroPLoP](./EuroPLoP)
 * SugarLoafPLoP
 * ScrumPLoP
-* US [PLoP](/PLoP)
+* US [PLoP](./PLoP)
 * Viking Plop
