@@ -4,11 +4,18 @@ title: Home
 
 The public GitHub repository for this website is <https://github.com/socadk/patterns>. Feel free to contribute or report issues!
 
-## This repository
+## This Repository
+
+Main menu options:
 
 * [About patterns](./about)
 * [Writing patterns](./writing/authoring.html)
 * [Pattern repositories](./repositories)
+  
+Reading lists: 
+
+  * [API design](./reading-lists/api-design.html)
+  * to be continued 
 
 ## Pattern Conferences 
 

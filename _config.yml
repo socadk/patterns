@@ -1,5 +1,6 @@
 theme: minima
-author: "socadk (aka ZIO)"
+author: "Page maintained by socadk (aka ZIO)"
+date: "2023-07-14" 
 footer: "(C) 2023, all right reserved. See license file (creative commons)." 
 # theme: jekyll-theme-minimal
 # remote_theme: "mmistakes/minimal-mistakes"
