@@ -1,3 +1,5 @@
 theme: minima
+author: "socadk (aka ZIO)"
+footer: "(C) 2023, all right reserved. See license file (creative commons)." 
 # theme: jekyll-theme-minimal
 # remote_theme: "mmistakes/minimal-mistakes"
