@@ -1,6 +1,6 @@
 ---
-Modified: 2023-07-13
-Created: 2021-06-24
+Modified: 2023-07-14
+Created: 2023-07-14
 Status: draft
 --- 
 
@@ -17,7 +17,13 @@ Watch out for papers by Joe Yoder et al, for instance:
 
 |Pattern|Problem|Solution|Full Pattern|
 |-|-|-|-|
-|Architecture in the Backlog|How can the architecture adequately evolve to best meet the changing stream of software requirements?|Add new architectural capabilities to the backlog to ensure that they are prioritized and implemented at the Most Responsible Moments.|[Paper PDF](https://www.hillside.net/plop/2015/papers/proceedings/papers/wirfs-brock.pdf)|
-|Architectural Trigger|How can the team know when to rework or evolve the architecture?|Define conditions that trigger architectural investigations which may lead to adding tasks
-to the backlog|same paper|
+|**Architecture in the Backlog**|*How can the architecture adequately evolve to best meet the changing stream of software requirements?*|Add new architectural capabilities to the backlog to ensure that they are prioritized and implemented at the Most Responsible Moments.|[Paper PDF](https://www.hillside.net/plop/2015/papers/proceedings/papers/wirfs-brock.pdf)|
+|**Architectural Trigger**|*How can the team know when to rework or evolve the architecture?*|Define conditions that trigger architectural investigations which may lead to adding tasks to the backlog|same paper|
+|**Architectural Spike**|*How can you make architecture decisions when their impacts are not completely understood by the team?*|When you discover that the current architecture is inadequate and you do not know how to address it, add an Architecture Spike task to your backlog to perform some study, test or alternative investigation that supports architectural decisions.|Same paper|
+|**Technical Debt Management**|*How can you protect your architecture from the ravages of uncontrolled technical debt?*|Identify and manage the technical debt present in the project along with the respective effort to fix it.|Same paper|
+
+*work in progress/PoC*
+
+|Pattern|Problem|Solution|Full Pattern|
+|-|-|-|-|
 |tbc||||
