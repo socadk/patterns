@@ -1,6 +1,4 @@
----
-title: Pattern Meta Repository Home
----
+
 
 ## Pattern Conferences 
 
