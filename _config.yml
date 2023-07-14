@@ -1,7 +1,2 @@
 # theme: jekyll-theme-minimal
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-navigation:
-  - name: Overview
-    link: ./index.html
-  - name: PLoP Conference
-    link: ./conferences/PLoP/
+remote_theme: "mmistakes/minimal-mistakes"
