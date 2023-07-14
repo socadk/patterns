@@ -1,6 +1,5 @@
 ---
-layout: base
-title: Pattern Meta Repository
+title: Pattern Meta Repository Home
 ---
 
 ## Pattern Conferences 
