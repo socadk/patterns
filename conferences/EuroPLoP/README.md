@@ -1,3 +1,5 @@
+# European Conference on Pattern Languages of Programming (EuroPLoP)
+
 The conference website recently changes to a new layout and site organization:
 
 * [Past conferences](https://www.europlop.net/past-conferences/)
