@@ -1,5 +1,5 @@
 ---
-title: Pattern Writing
+title: Writing Patterns
 ---
 
 * to be continued
