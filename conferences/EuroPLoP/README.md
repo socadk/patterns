@@ -1,5 +1,7 @@
 # European Conference on Pattern Languages of Programming (EuroPLoP)
 
+![grafik](https://github.com/socadk/patterns/assets/5002426/2f424d57-3751-4f38-831d-62c764aa9b1c)
+
 The conference website recently changes to a new layout and site organization:
 
 * [Past conferences](https://www.europlop.net/past-conferences/)
