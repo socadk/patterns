@@ -8,14 +8,16 @@ The public GitHub repository for this website is <https://github.com/socadk/patt
 
 Main menu options:
 
-* [About patterns](./about)
-* [Writing patterns](./writing/authoring.html)
-* [Pattern repositories](./repositories)
+* [About Patterns](./about)
+* [Writing Patterns](./writing/authoring.html)
+* [Pattern Conferences](./conferences)
+* [Pattern Repositories](./repositories)
   
-Reading lists: 
+Reading lists ([topic index/overiew](./reading-lists/)): 
 
-  * [API design](./reading-lists/api-design.html)
-  * to be continued 
+* [Agile architecting](./reading-lists/agile-architecture.html)
+* [API design](./reading-lists/api-design.html)
+* to be continued 
 
 ## Pattern Conferences 
 
