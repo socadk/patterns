@@ -2,6 +2,12 @@
 title: Writing Patterns
 -->
 
-*page under construction/not yet available"
+*page under construction/not yet available*
 
-* to be continued
+How to get started? 
+
+* *to be continued*
+
+Pattern languages for pattern writing
+
+* *to be continued*

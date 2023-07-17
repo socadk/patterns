@@ -34,4 +34,4 @@ Reading lists ([topic index/overview](./reading-lists/)):
 
 * [The Hillside Group](https://hillside.net/) pattern community
 * [WikiWikiWeb](https://wiki.c2.com/), since 1995 <!-- PPP: <http://c2.com/ppr/> -->
-* to be continued
+* *to be continued*

@@ -12,7 +12,7 @@ See <https://www.europlop.net/patterns/> and <https://www.hillside.net/patterns/
 
 ## How to write patterns? How to get started? 
 
-See [this page](./writing/authoring.md) in this repository (work in progress). 
+See [this page](../writing/authoring) in this repository/website (work in progress). <!-- TODO .md vs. .html for non-index pages -->
 
 <!-- no effect: -->
 <style>
