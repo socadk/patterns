@@ -21,4 +21,4 @@ Pattern papers:
 
 See ["Related Pattern Languages"](https://api-patterns.org/relatedPatternLanguages) on api-patterns-org for more information.
 
-*Back to [reading list index](../index.html).*
+***Back to [reading list index](../readng-lists/index.html).***

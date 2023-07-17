@@ -13,7 +13,7 @@ Watch out for papers by Joe Yoder et al, for instance:
 * ["Patterns to Develop and Evolve Architecture During an Agile Software Project"](https://www.hillside.net/plop/2015/papers/proceedings/papers/wirfs-brock.pdf)
   * "This paper presents four patterns for architectural design on agile projects: Architecture in the Backlog, Architectural Trigger, Architectural Spike, and Technical Debt Management." 
 
-## From QA to AQ 
+## From Quality Assurance (QA) to Agile Quality (AQ) 
 
 * Part 1 (AsianPLoP 2014): [PDF](https://hillside.net/asianplop/proceedings/AsianPLoP2014/papers/27.pdf)
 * Part 2 (US PLoP 2014): [PDF](https://hillside.net/plop/2014/papers/proceedings/papers/20-yoder.pdf)
@@ -34,4 +34,4 @@ Watch out for papers by Joe Yoder et al, for instance:
 |-|-|-|-|
 |tbc||||
 
-**Back to [reading list index](../index.html).**
+***Back to [reading list index](/reading-lists/index.html).***

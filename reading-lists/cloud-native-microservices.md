@@ -45,4 +45,4 @@ Definitions of cloud-native (from an application development viewpoint, not to b
 
 *work in progress/PoC*
 
-***Back to [reading list index](../index.html).***
+***Back to [reading list index](/patterns/reading-lists/index.html).***

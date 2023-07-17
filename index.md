@@ -18,7 +18,7 @@ Reading lists ([topic index/overview](./reading-lists/)):
 
 * [Agile architecting](./reading-lists/agile-architecture.html)
 * [API design](./reading-lists/api-design.html)
-* to be continued 
+* [Cloud-native applications and microservices](./reading-lists/cloud-native-microservices.md)
 
 ## Pattern Conferences 
 
