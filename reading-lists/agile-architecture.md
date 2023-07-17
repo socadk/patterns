@@ -19,7 +19,7 @@ Watch out for papers by Joe Yoder et al, for instance:
 * Part 2 (US PLoP 2014): [PDF](https://hillside.net/plop/2014/papers/proceedings/papers/20-yoder.pdf)
 * Part 3 (SugarLoaf PLoP 2014): [PDF via ResearchGate](https://www.researchgate.net/publication/267152535_QA_to_AQ_Part_Three_-_Shifting_from_Quality_Assurance_to_Agile_Quality_-_Tearing_Down_the_Walls)
 
-### Pattern Summaries
+## Pattern Summaries
 
 |Pattern|Problem|Solution|Full Pattern|
 |-|-|-|-|
@@ -34,4 +34,4 @@ Watch out for papers by Joe Yoder et al, for instance:
 |-|-|-|-|
 |tbc||||
 
-Back to [reading list index](../index.html).
+**Back to [reading list index](../index.html).**
