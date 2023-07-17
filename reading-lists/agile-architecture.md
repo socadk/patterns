@@ -34,4 +34,4 @@ Watch out for papers by Joe Yoder et al, for instance:
 |-|-|-|-|
 |tbc||||
 
-***Back to [reading list index](/reading-lists/index.html).***
+***Back to [reading list index](../reading-lists/index.html).***
