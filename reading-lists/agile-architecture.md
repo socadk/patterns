@@ -1,10 +1,10 @@
 ---
-Modified: 2023-07-14
+Modified: 2023-07-17
 Created: 2023-07-14
 Status: draft
 --- 
 
-<!-- *Reading List #1* -->
+<!-- *Reading List #3* -->
 
 ## Agile Architecting
 
@@ -12,6 +12,12 @@ Watch out for papers by Joe Yoder et al, for instance:
 
 * ["Patterns to Develop and Evolve Architecture During an Agile Software Project"](https://www.hillside.net/plop/2015/papers/proceedings/papers/wirfs-brock.pdf)
   * "This paper presents four patterns for architectural design on agile projects: Architecture in the Backlog, Architectural Trigger, Architectural Spike, and Technical Debt Management." 
+
+## From QA to AQ 
+
+* Part 1 (AsianPLoP 2014): [PDF](https://hillside.net/asianplop/proceedings/AsianPLoP2014/papers/27.pdf)
+* Part 2 (US PLoP 2014): [PDF](https://hillside.net/plop/2014/papers/proceedings/papers/20-yoder.pdf)
+* Part 3 (SugarLoaf PLoP 2014): [PDF via ResearchGate](https://www.researchgate.net/publication/267152535_QA_to_AQ_Part_Three_-_Shifting_from_Quality_Assurance_to_Agile_Quality_-_Tearing_Down_the_Walls)
 
 ### Pattern Summaries
 
