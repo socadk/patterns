@@ -1,4 +1,8 @@
-*draft and PoC, work in progress*
+---
+title: Reading Lists 
+---
+
+*Note and disclaimer: this is a draft page serving as PoC/MVP, work in progress!*
 
 ## Reading Lists (Somewhat Curated)
 

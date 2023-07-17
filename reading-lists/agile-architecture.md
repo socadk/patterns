@@ -5,6 +5,7 @@ Status: draft
 --- 
 
 <!-- *Reading List #3* -->
+*Note and disclaimer: this is a draft page serving as PoC/MVP, work in progress!*
 
 ## Agile Architecting
 
@@ -30,8 +31,10 @@ Watch out for papers by Joe Yoder et al, for instance:
 
 *work in progress/PoC*
 
+<!--
 |Pattern|Problem|Solution|Full Pattern|
 |-|-|-|-|
 |tbc||||
+-->
 
 ***Back to [reading list index](../reading-lists/index.html).***

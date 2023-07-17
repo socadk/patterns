@@ -5,6 +5,7 @@ Status: draft
 --- 
 
 <!-- *Reading List #1* -->
+*Note and disclaimer: this is a draft page serving as PoC/MVP, work in progress!*
 
 ## API Design and Evolution
 
@@ -12,7 +13,7 @@ The following pattern languages deal with API design:
 
 * "Patterns for API Design", <https://api-patterns.org/>
 * "Service Design Patterns"
-* to be continued
+* *to be continued*
 
 Pattern papers: 
 
