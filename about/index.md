@@ -2,9 +2,17 @@
 title: About Patterns 
 ---
 
+*Note and disclaimer: this is a draft page serving as PoC/MVP, work in progress!*
+
 <!-- pattern DoD: mined not invented; rule of three; review -->
 
+## What is a pattern? Why bother? 
+
 See <https://www.europlop.net/patterns/> and <https://www.hillside.net/patterns/about-patterns> for the time being.
+
+## How to write patterns? How to get started? 
+
+See [this page](./writing/authoring.md) in this repository (work in progress). 
 
 <!-- no effect: -->
 <style>
