@@ -17,7 +17,7 @@ The following pattern languages deal with API design:
 
 Pattern papers: 
 
-* ["Patterns on Designing API Endpoint Operations"](https://hillside.net/plop/2021/submission/shepherd.cgi?token=57ba5afdd4ecdbccb0dd937b8148548b654c2995&action=download&label=1631285024_18) <!-- Hillside link returns error message -->
+* ["Patterns on Designing API Endpoint Operations"](https://eprints.cs.univie.ac.at/7194/1/patterns-on-designing-api-endpoint-operations-proceeding-version5.pdf) <!-- Hillside link returns error message -->
 * Five EuroPLoP papers 2017 to 2020, superseeded by content on api-patterns website and the book ["Patterns for API Design"](https://api-patterns.org/book/)
 
 See ["Related Pattern Languages"](https://api-patterns.org/relatedPatternLanguages) on api-patterns.org for more information.
