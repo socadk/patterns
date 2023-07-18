@@ -6,6 +6,7 @@ Status: draft
 
 <!-- *Reading List #3* -->
 *Note and disclaimer: this is a draft page serving as PoC/MVP (work in progress)*
+=======
 
 ## Agile Architecting
 
