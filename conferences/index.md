@@ -2,10 +2,12 @@
 title: Pattern Conferences
 ---
 
-* AsiaPLoP
+* [AsianPLoP](https://hillside.net/conferences/asian-plop)
 * ChiliPLoP
 * [EuroPLoP](./EuroPLoP/index.html)
-* SugarLoafPLoP
+* [SugarLoafPLoP]()
 * ScrumPLoP
 * US [PLoP](./PLoP)
-* Viking Plop
+* Viking PloP
+
+Also see <https://hillside.net/conferences>.

@@ -2,13 +2,22 @@
 title: About Patterns 
 ---
 
-*Note and disclaimer: this is a draft page serving as PoC/MVP, work in progress!*
+*Note and disclaimer: this is a draft page serving as PoC/MVP (work in progress)*
 
 <!-- pattern DoD: mined not invented; rule of three; review -->
 
 ## What is a pattern? Why bother? 
 
-See <https://www.europlop.net/patterns/> and <https://www.hillside.net/patterns/about-patterns> for the time being.
+The following websites provide background information about patterns: 
+
+* <https://www.europlop.net/patterns/> 
+* <https://www.hillside.net/patterns/about-patterns> for the time being
+* <https://api-patterns.org/primer#why-do-we-use-patterns>
+
+Articles: 
+
+* ["A Decade of Enterprise Integration Patterns. A Conversation with the Authors"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7368007)
+* ["Twenty Years of Patterns’ Impact"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6648592)
 
 ## How to write patterns? How to get started? 
 

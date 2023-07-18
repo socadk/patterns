@@ -5,7 +5,7 @@ Status: draft
 --- 
 
 <!-- *Reading List #3* -->
-*Note and disclaimer: this is a draft page serving as PoC/MVP, work in progress!*
+*Note and disclaimer: this is a draft page serving as PoC/MVP (work in progress)*
 
 ## Cloud-Native Applications
 
@@ -45,5 +45,10 @@ Definitions of cloud-native (from an application development viewpoint, not to b
 <!-- |**TODO**|*tbc?*|tbc.|[Paper PDF]()| -->
 
 *work in progress/PoC*
+
+## Other Reading Lists
+
+* [Agile architecting/architecture and agile quality](../agile-architecture.md)
+* [API design, evolution, management](../api-design.md)
 
 ***Back to [reading list index](/patterns/reading-lists/index.html).***
