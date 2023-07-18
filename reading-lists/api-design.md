@@ -24,7 +24,7 @@ See ["Related Pattern Languages"](https://api-patterns.org/relatedPatternLanguag
 
 ## Other Reading Lists 
 
-* [Agile architecting/architecture and agile quality](../agile-architecture.md)
-* [Cloud-native applications and microservices](../cloud-native-microservices.md)
+* [Agile architecting/architecture and agile quality](./agile-architecture.md)
+* [Cloud-native applications and microservices](./cloud-native-microservices.md)
 
 ***Back to [reading list index](../reading-lists/index.html).***

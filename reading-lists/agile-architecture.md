@@ -41,7 +41,7 @@ Paper series by Joe Yoder and Rebecca Wirfs-Brock:
 
 ## Other Reading Lists
 
-* [API design, evolution, management](../api-design.md)
-* [Cloud-native applications and microservices](../cloud-native-microservices.md)
+* [API design, evolution, management](./api-design.md)
+* [Cloud-native applications and microservices](./cloud-native-microservices.md)
 
 ***Back to [reading list index](../reading-lists/index.html).***

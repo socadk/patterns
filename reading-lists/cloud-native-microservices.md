@@ -48,7 +48,7 @@ Definitions of cloud-native (from an application development viewpoint, not to b
 
 ## Other Reading Lists
 
-* [Agile architecting/architecture and agile quality](../agile-architecture.md)
-* [API design, evolution, management](../api-design.md)
+* [Agile architecting/architecture and agile quality](./agile-architecture.md)
+* [API design, evolution, management](./api-design.md)
 
 ***Back to [reading list index](/patterns/reading-lists/index.html).***
