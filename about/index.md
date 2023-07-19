@@ -6,7 +6,7 @@ title: About Patterns
 
 ## The essentials
 
-Patterns share knowledge in a standard format. The knowledge captures proven solution to recurring problems. Pattern are observed in and mined from prcatice, not invented; the rule of three applied. They should be reviewed and workshopped at a [pattern conference](/conferences/). 
+Patterns share knowledge in a standard format. The knowledge captures proven solution to recurring problems. Pattern are observed in and mined from practice, not invented; the [rule of three](https://wiki.c2.com/?RuleOfThree=) known uses applies. They should be reviewed and workshopped at a [pattern conference](/conferences/). 
 
 ## What is a pattern anyway?
 
@@ -20,6 +20,8 @@ The following articles also comment on patterns in general and their evolution:
 
 * ["A Decade of Enterprise Integration Patterns. A Conversation with the Authors"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7368007), IEEE Software Insights
 * ["Twenty Years of Patterns’ Impact"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6648592), IEEE Software Impact 
+
+Blog posts abput patterns can be found [here](https://ozimmer.ch/categories/#Patterns).
 
 ## How to write patterns? <!-- How to get started? -->
 
