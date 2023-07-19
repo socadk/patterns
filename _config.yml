@@ -2,10 +2,10 @@ theme: minima
 author: "Page and repository maintained by socadk (aka ZIO)"
 created: "2023-07-14" 
 header_pages:
-  - about/index.html
-  - conferences/index.html
+  - about/index.md
+  - conferences/index.md
   - repositories/index.md
-  - ./reading-lists/index.md
+  - reading-lists/index.md
 # footer: "(C) 2023, all right reserved. See license file (creative commons)." 
 
 # theme: jekyll-theme-minimal
