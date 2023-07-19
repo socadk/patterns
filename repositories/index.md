@@ -6,7 +6,12 @@ title: Pattern Repositories
 
 ## Public Repositories and Tools 
 
-Please refer to the [Hillside catalog](https://www.hillside.net/patterns/patterns-catalog) for the time being. <!-- PPP: <http://c2.com/ppr/> -->
+Repositiories collect patterns and make them searchable. 
+
+* [Portland Pattern Repository](http://c2.com/ppr/)
+* *to be continued*
+
+Please refer to the [Hillside catalog](https://www.hillside.net/patterns/patterns-catalog) for more information. 
 
 ## Related Content 
 

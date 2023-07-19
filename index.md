@@ -3,7 +3,7 @@ title: Home
 ---
 -->
 
-*patterns* compiles information about patterns conferences and repositories, provides pattern summaries, and suggests reading lists for topics such as agile architecting, API design, cloud-native application architectures. 
+patterns compiles information about patterns conferences and repositories, provides pattern summaries, and suggests reading lists for topics such as agile architecting, API design, cloud-native application architectures. 
 
 ## This Repository ("patterns")
 
@@ -14,9 +14,9 @@ Main menu options:
 * [Pattern Repositories](./repositories)
 * [Writing Patterns](./writing/authoring.html)
   
-Reading lists ([topic index/overview](./reading-lists/)): 
+Patterns by topic (reading lists): <!-- ([topic index/overview](./reading-lists/)): -->
 
-* [Agile architecting](./reading-lists/agile-architecture.html)
+* [Agile architecting and agile quality](./reading-lists/agile-architecture.html)
 * [API design](./reading-lists/api-design.html)
 * [Cloud-native applications and microservices](./reading-lists/cloud-native-microservices.md)
 

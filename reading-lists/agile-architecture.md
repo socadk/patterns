@@ -4,7 +4,7 @@ Created: 2023-07-14
 Status: draft
 --- 
 
-<!-- *Reading List #3* -->
+<!-- *Reading List #2* -->
 *Note and disclaimer: this is a draft page serving as PoC/MVP (work in progress)*
 
 ## Agile Architecting

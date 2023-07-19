@@ -4,20 +4,22 @@ title: About Patterns
 
 *Note and disclaimer: this is a draft page serving as PoC/MVP (work in progress)*
 
-<!-- pattern DoD: mined not invented; rule of three; review -->
+## Essentials
+
+Patterns are observed in and mined from prcatice, not invented; the rule of three applied. They should be reviewed and workshopped at a [pattern conference](/conferences/). 
 
 ## What is a pattern? Why bother? 
 
 The following websites provide background information about patterns: 
 
 * <https://www.europlop.net/patterns/> 
-* <https://www.hillside.net/patterns/about-patterns> for the time being
+* <https://www.hillside.net/patterns/about-patterns>
 * <https://api-patterns.org/primer#why-do-we-use-patterns>
 
-Articles: 
+The following articles also comment on patterns in general and their evolution: 
 
-* ["A Decade of Enterprise Integration Patterns. A Conversation with the Authors"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7368007)
-* ["Twenty Years of Patterns’ Impact"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6648592)
+* ["A Decade of Enterprise Integration Patterns. A Conversation with the Authors"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7368007), IEEE Software Insights
+* ["Twenty Years of Patterns’ Impact"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6648592), IEEE Software Impact 
 
 ## How to write patterns? How to get started? 
 
