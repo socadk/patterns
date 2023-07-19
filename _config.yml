@@ -1,6 +1,11 @@
 theme: minima
 author: "Page and repository maintained by socadk (aka ZIO)"
 created: "2023-07-14" 
+header_pages:
+  - about
+  - conferences
+  - repositories
+  - reading lists
 # footer: "(C) 2023, all right reserved. See license file (creative commons)." 
 
 # theme: jekyll-theme-minimal
