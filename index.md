@@ -7,14 +7,15 @@ patterns compiles information about patterns conferences and repositories, provi
 
 ## This Repository ("patterns")
 
-Main menu options:
+Available pages (some still under construction):
 
 * [About Patterns](./about)
 * [Pattern Conferences](./conferences)
 * [Pattern Repositories](./repositories)
+* [Reading Lists](./reading-lists/)
 * [Writing Patterns](./writing/authoring.html)
   
-Patterns by topic (reading lists): <!-- ([topic index/overview](./reading-lists/)): -->
+Patterns by topic (reading lists):
 
 * [Agile architecting and agile quality](./reading-lists/agile-architecture.html)
 * [API design](./reading-lists/api-design.html)
