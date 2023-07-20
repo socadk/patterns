@@ -13,7 +13,7 @@ title: Writing Patterns
 
 ## Pattern languages for pattern writing
 
-* See <https://www.hillside.net/patterns/writing>
+* See <https://www.hillside.net/patterns/writing> and <https://www.europlop.net/patterns/>.
 * *to be continued*
 
 ## Shepherding 

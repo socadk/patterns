@@ -1,9 +1,7 @@
 
-<!-- ### European PLoP -->
-
-### The Conference
-
 ![eplogo](https://github.com/socadk/patterns/assets/5002426/2f424d57-3751-4f38-831d-62c764aa9b1c)
+
+### European Conference on Pattern Languages of Programs (EuroPLoP)
 
 The [EuroPLoP](https://www.europlop.net/) website recently changed to a new layout and site organization:[^1] 
 
@@ -20,3 +18,5 @@ Old website versions are available via the [Wayback Machine](https://web.archive
 Hillside Europe sponsors EuroPLoP: 
 
 * <https://www.europlop.net/hillside-europe/> 
+
+### Notes 
