@@ -6,7 +6,6 @@ Status: draft
 
 <!-- *Reading List #2* -->
 *Note and disclaimer: this is a draft page serving as PoC/MVP (work in progress)*
-=======
 
 ## Agile Architecting
 
@@ -28,17 +27,16 @@ Watch out for papers by Joe Yoder et al, for instance:
 
 Paper series by Joe Yoder and Rebecca Wirfs-Brock:
 
-* Part 1 (AsianPLoP 2014): [PDF](https://hillside.net/asianplop/proceedings/AsianPLoP2014/papers/27.pdf)
-* Part 2 (US PLoP 2014): [PDF](https://hillside.net/plop/2014/papers/proceedings/papers/20-yoder.pdf)
-* Part 3 (SugarLoaf PLoP 2014): [PDF via ResearchGate](https://www.researchgate.net/publication/267152535_QA_to_AQ_Part_Three_-_Shifting_from_Quality_Assurance_to_Agile_Quality_-_Tearing_Down_the_Walls)
+* Part 1 (AsianPLoP 2014): [PDF](https://hillside.net/asianplop/proceedings/AsianPLoP2014/papers/27.pdf) outlines 21 patterns as patlets and describes six:  Integrating Quality into your Agile Process, Agile Quality Scenarios, Quality Acceptance Stories, Fold-Out Qualities, Whole Team and Quality Focused Sprint.
+* Part 2 (US PLoP 2014): [PDF](https://hillside.net/plop/2014/papers/proceedings/papers/20-yoder.pdf) features six patterns: Find Essential Qualities, Agile Landing Zones, Measurable System Qualities, Agree on Quality Targets, Recalibrate the Landing Zone, and System Quality Dashboards.
+* Part 3 (SugarLoaf PLoP 2014): [PDF via ResearchGate](https://www.researchgate.net/publication/267152535_QA_to_AQ_Part_Three_-_Shifting_from_Quality_Assurance_to_Agile_Quality_-_Tearing_Down_the_Walls) has two patterns: Break Down Barriers and Pair with a Quality Advocate.
+
+|Pattern|Problem|Solution|Full Pattern|
+|-|-|-|-|
+|**Agile Quality Scenarios**|*How can we get a good understanding and a high level view of the important qualities that need to be addressed during the development of the system?*| "... create high-level quality scenarios that address important non-functional requirements such as performance, load, reliability, security, etc. If we know that certain qualities are an important consideration, they can be prioritized as part of the product roadmap and included during relevant sprints."|[PDF](https://hillside.net/asianplop/proceedings/AsianPLoP2014/papers/27.pdf)|
 
 *work in progress/PoC*
 
-<!--
-|Pattern|Problem|Solution|Full Pattern|
-|-|-|-|-|
-|tbc||||
--->
 
 ## Other Reading Lists
 

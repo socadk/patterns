@@ -4,7 +4,7 @@ title: Writing Patterns
 
 *Note and disclaimer: this is a draft page serving as PoC/MVP (work in progress)*
 
-*TL;DR* Once you have identified a proven solution to a common problem (see [definition](/about)), give it a candidate name and draft a problem-solution pair (1-2 sentences each). Carve out the forces that make the problem hard to solve. Look for known uses. Complete the rest of the pattern template you have decided for. Review your draft. Iterate. 
+*TL;DR* Once you have identified a proven solution to a common problem (see [definition](/about)), give it a candidate name and draft a problem-solution pair (1-2 sentences each). Carve out the forces that make the problem hard to solve. Look for known uses. Complete the rest of the pattern template you have decided for. Review your draft. Iterate. <!-- JY/RWB: " A patlet is a brief description of a pattern, usually one or two sentences" -->
 
 ## How to get started with pattern writing? 
 

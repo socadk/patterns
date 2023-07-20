@@ -16,7 +16,7 @@ Definitions of cloud-native (from an application development viewpoint, not to b
 
 ### Pattern Languages 
 
-* ["Overview of A Pattern Language for Engineering Software for the Cloud"](https://hillside.net/plop/2018/papers/proceedings/papers/04-sousa.pdf)
+* ["Overview of A Pattern Language for Engineering Software for the Cloud"](https://hillside.net/plop/2018/papers/proceedings/papers/04-sousa.pdf), PLoP 2018
 <!--  * "TODO" -->
 * Watch out for posts and repositories by Kyle Brown et al, for instance ["Patterns for Developers and Architects building for the cloud"](https://kgb1001001.github.io/cloudadoptionpatterns/).
 
@@ -24,7 +24,7 @@ Definitions of cloud-native (from an application development viewpoint, not to b
 
 |Pattern|Problem|Solution|Full Pattern|
 |-|-|-|-|
-|**TODO**|*tbc?*|tbc.|[Paper PDF]()|
+|**TODO**|*tbc?*|tbc.|[Paper PDF (tbc)]()|
 
 
 ## Microservices 
@@ -40,7 +40,7 @@ Definitions of cloud-native (from an application development viewpoint, not to b
 
 |Pattern|Problem|Solution|Full Pattern|
 |-|-|-|-|
-|**TODO**|*tbc?*|tbc.|[Paper PDF]()|
+|**TODO**|*tbc?*|tbc.|[Paper PDF (tbc)]()|
 
 <!-- |**TODO**|*tbc?*|tbc.|[Paper PDF]()| -->
 
