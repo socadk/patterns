@@ -2,7 +2,7 @@
 title: Pattern Conferences
 ---
 
-Patterns conferenced are held around the world:
+Patterns conferenced have been and are held around the world:
 
 * [AsianPLoP](https://hillside.net/conferences/asian-plop)
 * ChiliPLoP
