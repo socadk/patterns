@@ -3,6 +3,8 @@ title: Home
 ---
 -->
 
+*Note: This repository and its Git Pages are not actively maintained at present; they served as a PoC and demonstrator in 2023. You still might find some relevant pointers.*
+
 patterns compiles information about patterns conferences and repositories, provides pattern summaries, and suggests reading lists for topics such as agile architecting, API design, cloud-native application architectures. 
 
 ## This Repository ("patterns")
