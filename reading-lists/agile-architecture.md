@@ -39,6 +39,12 @@ Paper series by Joe Yoder and Rebecca Wirfs-Brock:
 
 *work in progress/PoC*
 
+<!-- 
+
+* [Patterns for Initial Architectural Design on Agile Projects](https://hillside.net/asianplop/proceedings/AsianPLoP2015/papers/5.pdf), free in [ACM DL](https://dl.acm.org/doi/10.5555/3124497.3124508)
+* [Patterns to Develop and Evolve Architecture During an Agile Software Project](https://hillside.net/plop/2015/papers/proceedings/papers/wirfs-brock.pdf), PLoP 2015 
+* [QA to AQ Part Four - Shifting from Quality Assurance to Agile Quality: “Prioritizing Qualities and Making them Visible”](https://hillside.net/plop/2015/papers/proceedings/papers/yoder.pdf)
+-->
 
 ## Other Reading Lists
 

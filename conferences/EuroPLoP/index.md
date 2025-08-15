@@ -6,7 +6,7 @@
 The [EuroPLoP](https://www.europlop.net/) website recently changed to a new layout and site organization:[^1] 
 
 * [Past conferences](https://www.europlop.net/past-conferences/) (with links to proceedings in ACM Digital Library) 
-* [Call for Papers (2023)](https://www.europlop.net/call-for-papers/)
+* [Program 2023](https://www.europlop.net/europlop-2023/) and [Call for Papers](https://www.europlop.net/call-for-papers/)
 * [Starter Kit (.zip)](https://europlop.net/wp-content/uploads/2022/10/pattern_introduction_pack.zip) with articles on pattern writing and shepherding (coaching pattern writers, that is). <!-- also working: http://hillside.net/europlop/europlop2012/pattern_introduction_pack2012.zip -->
 
 Old website versions are available via the [Wayback Machine](https://web.archive.org/web/20230000000000*/https://www.europlop.net/) maintained by the Internet Archive.
